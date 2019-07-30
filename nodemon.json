@@ -1,6 +1,7 @@
 {
     "env": {
         "MONGO_USER": "flo",
-        "MONGO_PASSWORD": "pKs887eNPvv4zjvC"
+        "MONGO_PASSWORD": "2t9U2M6PUlJQO6Bv",
+        "MONGO_DB": "events-react-app"
     }
 }
